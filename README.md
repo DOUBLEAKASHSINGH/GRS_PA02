@@ -1,11 +1,8 @@
-# MT24110_README.md
-# GRS Assignment - Socket Communication Performance Study
-# Student: Akash Singh (MT24110)
-# Location: Bulandshahr, UP, INDIA
-# Education: MTech at IIITD, CSE
-#
+## MT24110_README.md
+## GRS Assignment - Socket Communication Performance Study
+## Student: Akash Singh (MT24110), MTech at IIITD, CSE
 
-# GRS Assignment - Socket Communication Performance Study
+## GRS Assignment - Socket Communication Performance Study
 
 ## Overview
 
