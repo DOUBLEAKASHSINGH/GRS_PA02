@@ -144,7 +144,7 @@ python3 MT24110_plot_cycles.py
 sudo apt install linux-tools-common
 
 # Profile a single experiment
-perf stat -e cycles,instructions,cache-references,cache-misses,context-switches ./MT24110_A1_Client 192.168.41.101 8080 1024 1 5
+perf stat -e cycles,instructions,cache-references,cache-misses,context-switches ./MT24110_A1_Client 192.168.**.** 8081 8192 4 5
 ```
 
 ## Myself
@@ -152,7 +152,6 @@ perf stat -e cycles,instructions,cache-references,cache-misses,context-switches 
 **Akash Singh (MT24110)**
 - Location: Bulandshahr, UP, INDIA
 - Education: MTech at IIITD, CSE
-- Interests: Business, Tech, Acting, Drama, Intellectual Thinking
 
 ## References
 
